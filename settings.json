@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "king 👑",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "Technogamer.aternos.me",
-    "port": 26015,
+    "ip": "techhnogamer.aternos.me",
+    "port": 63885,
     "version": "1.20.1",
     "try-creative": false
   },
